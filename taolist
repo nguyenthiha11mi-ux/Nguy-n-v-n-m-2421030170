@@ -1,0 +1,4 @@
+>> [1, 2, 3, 4, 5]          # 1 list chứa 5 số nguyên
+>> ['a', 'b', 'c', 'd']     # 1 list chứa 4 chuỗi
+>> [[1, 2], [3, 4]]         # 1 list chứa 2 list con là [1,2] và [3,4]
+>> [1, 'one', [2, 'two']]   # List hỗn hợp chứa số nguyên, chuỗi và list
