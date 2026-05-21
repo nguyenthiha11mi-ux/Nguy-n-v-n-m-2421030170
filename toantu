@@ -1,0 +1,8 @@
+a = 10
+b = 2
+list = [1, 2, 3, 4, 5]
+
+print(a in list)      # Kết quả -> F
+print(b in list)      # Kết quả -> T
+print(a not in list)  # Kết quả -> T
+print(b not in list)  # Kết quả -> F

@@ -1,0 +1,3 @@
+a = 100.50
+print('giá trị là %.2f' % a)
+# -> Kết quả là: giá trị là 100.50
