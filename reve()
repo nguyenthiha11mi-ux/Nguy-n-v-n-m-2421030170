@@ -1,5 +1,0 @@
-list1 = ['java', 'python', 'c++', 'php', 'sql']
-list1.reverse()
-
-print("list sau khi đảo ngược là:", list1)
-# -> Kết quả: ['sql', 'php', 'c++', 'python', 'java']
