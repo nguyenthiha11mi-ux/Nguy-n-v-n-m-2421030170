@@ -1,5 +1,0 @@
-list1 = [123, 'abc', 'xyz']
-list2 = ['java', 'python', 'php', 'c++']
-
-print("Độ dài của list đầu tiên là:", len(list1))
-print("Thứ hai là:", len(list2))
