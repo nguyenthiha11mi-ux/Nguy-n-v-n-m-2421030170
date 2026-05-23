@@ -1,0 +1,8 @@
+str1 = "Hello world!"
+print(str1[0])     # Ký tự đầu tiên hiển thị từ đầu -> cuối
+print(str1[:])     # Hiển thị từ đầu -> kết thúc
+print(str1[0:])    
+print(str1[:5])    
+print(str1[0:4])   # Từ 0 -> 4
+print(str1[1:8])   # Từ 1 -> 8
+
