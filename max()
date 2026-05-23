@@ -1,4 +1,0 @@
-list1 = ['123', 'abc', 'xyz', 'def']
-list2 = [222, 333, 111]
-
-print("Phần tử có GTLN là:", max(list1))
