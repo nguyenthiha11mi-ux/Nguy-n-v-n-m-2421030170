@@ -1,5 +1,0 @@
-list1 = ['java', 'python', 'c++', 'php', 'sql']
-list1.sort()
-
-print("list sau khi sắp xếp tăng dần:", list1)
-# -> Kết quả: ['c++', 'java', 'php', 'python', 'sql']
