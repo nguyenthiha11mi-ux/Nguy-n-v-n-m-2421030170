@@ -1,0 +1,6 @@
+list1 = ['java', 'python', 'c++', 'php', 'sql']
+
+list1.pop()     # Xóa phần tử cuối cùng -> java, python, c++, php
+list1.pop(2)    # Xóa phần tử có chỉ số là 2
+
+print("list:", list1)  # -> java, python, php, sql
