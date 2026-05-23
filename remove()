@@ -1,6 +1,0 @@
-list1 = ['java', 'python', 'c++', 'php', 'sql']
-list1.remove('c++')
-
-print("list sau khi xóa phần tử c++:", list1)
-# -> Kết quả: ['java', 'python', 'php', 'sql']
-
